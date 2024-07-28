@@ -1,2 +1,1 @@
-# PrepCouse-Henry
-Este es un repositorio de prueba del PrepCourse de Henry
+Esto es una prueba de como crear un commit del curso de Soy Henry
